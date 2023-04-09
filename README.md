@@ -16,5 +16,6 @@ Get in touch - the best way is by email (in my GitHub profile) or [on Twitter](h
 
 ## Sponsors
 Monthly sponsors of $10/month or higher are displayed here!
+- [Wésley Queiroz](https://github.com/wesleycoder)
 - [Aiden Bai](https://github.com/aidenybai)
 - [Nikola Hristov](https://github.com/nikolaxhristov)
