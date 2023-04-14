@@ -17,7 +17,7 @@ Get in touch - the best way is by email (in my GitHub profile) or [on Twitter](h
 ## Sponsors
 Monthly sponsors of $10/month or higher are displayed here!
 
-- [Eraser](https://github.com/eraserlabs?type=source) (Special sponsor)
+- [Eraser](https://github.com/eraserlabs?type=source)
 
 <a href="https://github.com/eraserlabs?type=source">
 <img src="https://user-images.githubusercontent.com/4033662/231962392-023b0fd1-4b11-4ebb-ae46-0095267feafb.png" width="300px"/></a>
