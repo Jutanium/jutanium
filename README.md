@@ -20,7 +20,7 @@ Monthly sponsors of $10/month or higher are displayed here!
 - [Aiden Bai](https://github.com/aidenybai)
 - [Nikola Hristov](https://github.com/nikolaxhristov)
 
-- [Eraser](https://github.com/eraserlabs?type=source)
+- [Eraser](https://eraser.io/dan)
 
-<a href="https://github.com/eraserlabs?type=source">
+<a href="https://eraser.io/dan">
 <img src="https://user-images.githubusercontent.com/4033662/231962392-023b0fd1-4b11-4ebb-ae46-0095267feafb.png" width="200px"/></a>
