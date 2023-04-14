@@ -16,6 +16,12 @@ Get in touch - the best way is by email (in my GitHub profile) or [on Twitter](h
 
 ## Sponsors
 Monthly sponsors of $10/month or higher are displayed here!
+
+- [Eraser](https://github.com/eraserlabs?type=source) (Special sponsor)
+
+
+<a href="https://github.com/eraserlabs?type=source"><img src="https://user-images.githubusercontent.com/4033662/231920120-868867f7-f6e6-4a2a-b44a-1a00dd4b172e.jpg" width="300px"/></a>
+
 - [Wésley Queiroz](https://github.com/wesleycoder)
 - [Aiden Bai](https://github.com/aidenybai)
 - [Nikola Hristov](https://github.com/nikolaxhristov)
