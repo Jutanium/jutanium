@@ -1,11 +1,5 @@
 ## Hey, I'm Dan! 👋
 
-I'm a
-
-- core team member of [SolidJS](https://github.com/orgs/solidjs/people), where I make 📚 [docs](https://twitter.com/solid_js/status/1640851626830307329?s=20), 🎤 [talks](https://youtu.be/qB5jK-KeXOs), and 🎥 [videos](https://www.youtube.com/watch?v=J70HXl1KhWE). 
-- core maintainer of [Astro](https://github.com/orgs/withastro/people), where I do 📝 [docs](https://github.com/withastro/docs), 👥 [community](https://github.com/withastro/.github/blob/main/COMMUNITY_GUIDE.md), and 👩‍💻 [support](https://hackmd.io/Q0W_Jth9R1252NUP4cjgXg). 
-- [Twitch](https://www.twitch.tv/jutanium) streamer, streaming my open source work and bringing on guests from around the web dev ecosystem to [break down their ideas](https://www.youtube.com/live/fYATmnlxX4A?feature=share) for a wider audience.
-
 I've always been interested in educational technology: how can we use tech to help people learn? 
 
 These days, I'm also focused on the other side of that coin: how can we help people learn tech?
