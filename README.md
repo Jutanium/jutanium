@@ -1,6 +1,6 @@
 This was my personal GitHub account, no longer active.
 
-Between 2021-2023, I was active as a core contributor to web framework projects, focusing on documentation and dev education. Here you can also find some educational technology prototypes that I built in high school and early college.
+Between 2021-2023, I was a core contributor to web framework projects, focusing on documentation and dev education. Here you can also find some educational technology prototypes that I built in high school and early college.
 
 In spring 2023, a [severe mood episode](https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Bipolar-Disorder/Overview#:~:text=Moods%20can%20rapidly,of%20their%20actions.) escalated to a full-blown break over the course of a few months. During that time, I caused immeasurable damage to the projects and communities I was a part of, and, more crushingly, to my colleagues and friends.
 
