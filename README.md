@@ -6,7 +6,7 @@ In spring 2023, a [severe mood episode](https://www.nami.org/About-Mental-Illnes
 
 I'm not here to explain away what I did: you're free to judge me based on my actions, which are well-documented online by the people I hurt. In the pursuit of helping others avoid similar outcomes for themselves or their loved ones with bipolar disorder: if you do want to learn more about my mental health history, what led to this episode (and the depressive one in 2022), and what I'm doing now to prevent future episodes, my email is in my profile.
 
-Many people who were directly affected expressed their desire for me to stay away. Because of that, I decided not to reach out and apologize unless they first made contact with me. If you're one of them and would like that, please feel free to reach out. My phone number is the same as it was in early 2023.
+Many people who were directly affected expressed their desire for me to stay away. Because of that, I decided not to reach out and apologize unless they first made contact with me. I know this is the kind of damage where an apology might not be wanted, but if you would like that, please feel free to reach out. My phone number is the same as it was in early 2023.
 
 To everyone, I want to make clear that I don't stand by what I said and did. I fully regret those actions, and (as a less important point, but important to me nonetheless) I believe I wouldn't have taken those actions before the episode or after it.
 
